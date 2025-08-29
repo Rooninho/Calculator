@@ -1,0 +1,23 @@
+h1{
+    color: violet;
+}
+p{
+    color:brown;
+}
+
+ #header-2{
+    color: black;
+ }
+ .p-css{
+    color: green;
+    font-size: 20px;
+ }
+
+ *{
+    margin: 1;
+    padding: 2;
+    background-color: greenyellow;
+    font-family: dancing script;
+    font-size: 30px;
+    text-align: center;
+ }
